@@ -299,7 +299,7 @@ try:
 except MultipleResultsFound, e:
       print e
 
-# error raised MultipleResultsFoudn
+# error raised MultipleResultsFound
 
 from sqlalchemy.orm.exc import NoResultFound
 try:
